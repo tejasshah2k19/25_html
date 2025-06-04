@@ -1,0 +1,79 @@
+C c++ java advjava python ruby .net 
+
+
+HTML  ->  
+
+
+website -> HTML 
+
+
+website --> collections of web pages 
+
+Signup 
+Login
+Home
+Status 
+Friend 
+
+Amazon --> 
+Register
+Login 
+Home 
+Search 
+ProductInfo 
+AddToCart->Cart 
+--------------------------------------------------------------------------
+
+Tags 
+    1) container tag {open  - close }
+    2) empty tag {no closing}
+
+file -> 
+
+
+<> open
+
+</>  close 
+
+
+HTML 
+    Body 
+        h1...h6
+
+
+
+-> .html 
+-> .html 
+
+.html   vs  .htm 
+
+max extension 3 
+
+
+fileName.extension 
+first.html
+
+fileName.htm 
+
+--------------------------------------------------
+
+
+html 
+    head 
+        title 
+    body 
+
+heading 
+    h1 
+    h2
+    h3
+    h4 
+    h5
+    h6 
+
+
+
+
+
+
+
