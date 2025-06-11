@@ -73,6 +73,41 @@ heading
 
 
 
+-------------------------------------------
+
+<marquee>
+    Hello
+</marquee>
+
+
+<marquee scrollamount="3">
+    Hello
+</marquee>
+
+
+
+<marquee direction="left">
+    Hello
+</marquee>
+
+-------------------------------------------
+
+
+youtube -> video -> 
+<iframe> 
+
+<frame>
+
+
+
+2018 -> 
+
+audio 
+    bgsound 
+    audio 
+video 
+    video
+
 
 
 
