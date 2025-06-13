@@ -1,21 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Signup Form</title>
 </head>
+
 <body>
 
-    <form>
-          FirstName : <input type="text">   <br><Br> 
-          Email : <input type="email"><br><br>   
-          Password : <input type="password"><Br><br>       
 
-          <input type="submit" value="SIGNUP">  
+    <form action="signup" method="post">
+        <table align="center"   width="400"  >
 
+            <tr>
+                <td>FirstName:</td>
+                <td> <input type="text" name="firstName"></td>
+            </tr>
+
+            <tr>
+                <td>Email:</td>
+                <td> 
+                    <input type="email" name="email">
+                </td>
+            </tr>
+
+            <tr>
+                <td>Password:</td>
+                <td><input type="password" name="password"></td>
+            </tr>
+            <tr>
+                <td>Gender:</td>
+                <td>
+                    Male<input type="radio" name="gender" value="male"/>
+                    Female<input type="radio" name="gender" value="female"/>
+                    
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="submit" value="Signup"/>
+                    <input type="button" value="Back"/>
+                </td>
+            </tr>
+        </table>
     </form>
-
-    
 </body>
+
+
+
+
 </html>

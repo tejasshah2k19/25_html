@@ -114,6 +114,55 @@ web site -> input ?
 HTML -> form 
 
 
+-----------------------------------------------------
+
+HTML 
+HEAD 
+    title 
+body 
+
+h1 to h6 
+
+center 
+
+font  
+
+br
+
+p*
+
+hr
+
+img 
+
+marquee 
+
+table 
+    tr td th 
+    thead tbody 
+
+ol ul dl 
+
+
+iframe src=""  
+
+audio 
+video 
+
+meta
+
+form 
+---------------------------------------------------------------------------
+
+form 
+    input 
+
+    input 
+
+
+
+
+
 
 
 
